@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\StringChars\StringChars\bin\Debug\StringChars.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\StringChars\StringChars\bin\Debug\StringChars.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\StringChars\StringChars\bin\Debug\StringChars.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\StringChars\StringChars\obj\Debug\StringChars.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\StringChars\StringChars\obj\Debug\StringChars.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\StringChars\StringChars\obj\Debug\StringChars.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\StringChars\StringChars\obj\Debug\StringChars.pdb

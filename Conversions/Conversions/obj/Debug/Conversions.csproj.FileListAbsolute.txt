@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Conversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Conversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Conversions\Conversions\bin\Debug\Conversions.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Conversions\Conversions\obj\Debug\Conversions.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Conversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Conversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Conversions\Conversions\obj\Debug\Conversions.pdb

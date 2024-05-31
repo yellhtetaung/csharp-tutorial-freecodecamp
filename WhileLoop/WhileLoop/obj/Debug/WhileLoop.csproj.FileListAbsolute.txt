@@ -1,0 +1,14 @@
+C:\Users\Ye Htet Aung\source\repos\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\Ye Htet Aung\source\repos\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\Ye Htet Aung\source\repos\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\Ye Htet Aung\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\Ye Htet Aung\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

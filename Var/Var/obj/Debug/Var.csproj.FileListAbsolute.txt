@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Var\Var\bin\Debug\Var.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Var\Var\bin\Debug\Var.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Var\Var\bin\Debug\Var.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Var\Var\obj\Debug\Var.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Var\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Var\Var\obj\Debug\Var.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Var\Var\obj\Debug\Var.pdb

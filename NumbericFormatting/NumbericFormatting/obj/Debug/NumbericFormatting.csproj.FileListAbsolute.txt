@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\NumbericFormatting\NumbericFormatting\bin\Debug\NumbericFormatting.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\NumbericFormatting\NumbericFormatting\bin\Debug\NumbericFormatting.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\NumbericFormatting\NumbericFormatting\bin\Debug\NumbericFormatting.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\NumbericFormatting\NumbericFormatting\obj\Debug\NumbericFormatting.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\NumbericFormatting\NumbericFormatting\obj\Debug\NumbericFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\NumbericFormatting\NumbericFormatting\obj\Debug\NumbericFormatting.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\NumbericFormatting\NumbericFormatting\obj\Debug\NumbericFormatting.pdb

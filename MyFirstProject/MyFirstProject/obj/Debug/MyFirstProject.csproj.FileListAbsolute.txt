@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb

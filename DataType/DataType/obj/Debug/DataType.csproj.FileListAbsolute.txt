@@ -1,0 +1,14 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\DataType\DataType\bin\Debug\DataType.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\DataType\DataType\bin\Debug\DataType.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\DataType\DataType\bin\Debug\DataType.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\DataType\DataType\obj\Debug\DataType.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\DataType\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\DataType\DataType\obj\Debug\DataType.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\DataType\DataType\obj\Debug\DataType.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\DataType\DataType\bin\Debug\DataType.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\DataType\DataType\bin\Debug\DataType.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\DataType\DataType\bin\Debug\DataType.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\DataType\DataType\obj\Debug\DataType.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\DataType\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\DataType\DataType\obj\Debug\DataType.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\DataType\DataType\obj\Debug\DataType.pdb

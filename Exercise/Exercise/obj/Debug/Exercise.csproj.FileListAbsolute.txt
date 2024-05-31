@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Exercise\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Exercise\Exercise\bin\Debug\Exercise.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Exercise\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Exercise\Exercise\obj\Debug\Exercise.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\Exercise\Exercise\obj\Debug\Exercise.pdb
