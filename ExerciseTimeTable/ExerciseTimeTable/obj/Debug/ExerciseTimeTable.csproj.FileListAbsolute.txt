@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseTimeTable\ExerciseTimeTable\bin\Debug\ExerciseTimeTable.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseTimeTable\ExerciseTimeTable\bin\Debug\ExerciseTimeTable.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseTimeTable\ExerciseTimeTable\bin\Debug\ExerciseTimeTable.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseTimeTable\ExerciseTimeTable\obj\Debug\ExerciseTimeTable.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseTimeTable\ExerciseTimeTable\obj\Debug\ExerciseTimeTable.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseTimeTable\ExerciseTimeTable\obj\Debug\ExerciseTimeTable.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseTimeTable\ExerciseTimeTable\obj\Debug\ExerciseTimeTable.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\TryParseFunction\TryParseFunction\bin\Debug\TryParseFunction.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\TryParseFunction\TryParseFunction\bin\Debug\TryParseFunction.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\TryParseFunction\TryParseFunction\bin\Debug\TryParseFunction.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\TryParseFunction\TryParseFunction\obj\Debug\TryParseFunction.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\TryParseFunction\TryParseFunction\obj\Debug\TryParseFunction.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\TryParseFunction\TryParseFunction\obj\Debug\TryParseFunction.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\TryParseFunction\TryParseFunction\obj\Debug\TryParseFunction.pdb
