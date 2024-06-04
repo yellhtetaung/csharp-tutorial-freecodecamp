@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringFormatting\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringFormatting\StringFormatting\obj\Debug\StringFormatting.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseFizzBuzzGame\ExerciseFizzBuzzGame\bin\Debug\ExerciseFizzBuzzGame.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseFizzBuzzGame\ExerciseFizzBuzzGame\bin\Debug\ExerciseFizzBuzzGame.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseFizzBuzzGame\ExerciseFizzBuzzGame\bin\Debug\ExerciseFizzBuzzGame.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseFizzBuzzGame\ExerciseFizzBuzzGame\obj\Debug\ExerciseFizzBuzzGame.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseFizzBuzzGame\ExerciseFizzBuzzGame\obj\Debug\ExerciseFizzBuzzGame.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseFizzBuzzGame\ExerciseFizzBuzzGame\obj\Debug\ExerciseFizzBuzzGame.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\ExerciseFizzBuzzGame\ExerciseFizzBuzzGame\obj\Debug\ExerciseFizzBuzzGame.pdb

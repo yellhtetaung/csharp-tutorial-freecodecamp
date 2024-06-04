@@ -1,0 +1,7 @@
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.AssemblyReference.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Users\Ye Htet Aung\Desktop\Tutorial\csharp\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb

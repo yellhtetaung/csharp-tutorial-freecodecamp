@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEqualsFunction", "StringEqualsFunction\StringEqualsFunction.csproj", "{CFABA9BF-8760-406B-85A9-7780203F24F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFABA9BF-8760-406B-85A9-7780203F24F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFABA9BF-8760-406B-85A9-7780203F24F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFABA9BF-8760-406B-85A9-7780203F24F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFABA9BF-8760-406B-85A9-7780203F24F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE3D03C-E372-42DB-87D9-B010DDB3A7D8}
+	EndGlobalSection
+EndGlobal
